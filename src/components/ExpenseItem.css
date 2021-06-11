@@ -26,6 +26,10 @@
     margin: 0 1rem;
     color: white;
   }
+
+  .title{
+    text-align: center;
+  }
   
   .expense-item__price {
     font-size: 1rem;
