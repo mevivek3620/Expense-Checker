@@ -1,5 +1,3 @@
-React based project
-
 Features:
 1. Add the new Expense
 2. Show all the expenses
